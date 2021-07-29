@@ -1,0 +1,61 @@
+/* global   */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* header  */
+
+.header{
+    background-color: #264653;
+    
+}
+
+
+.btn-orange{
+    background: #E76F51;
+    color: seashell;
+
+}
+
+.btn-orange:hover {
+    box-shadow: 0 0 10px #E76F51, 0 0 20px #E76F51;
+}
+
+/* main  */
+
+.gray{
+    filter: grayscale(100%);    
+}
+
+
+
+.text-orange{
+    color: #E76F51;
+}
+
+.text-navy{
+    color:  #0A0826;
+  
+}
+
+.btn-outline-orange{
+    border: 2px solid #E76F51;
+}
+
+.btn-outline-orange:hover{
+    background-color: #E76F51;
+}
+
+.top-seller{
+    position: relative;
+}
+
+.productss{
+    position: absolute;
+    top: 0px;
+    
+}
