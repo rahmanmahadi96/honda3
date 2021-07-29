@@ -25,9 +25,11 @@ body{
     box-shadow: 0 0 10px #E76F51, 0 0 20px #E76F51;
 }
 
+
+
 /* main  */
 
-.gray{
+.effect{
     filter: grayscale(100%);    
 }
 
@@ -50,11 +52,11 @@ body{
     background-color: #E76F51;
 }
 
-.top-seller{
+.offer{
     position: relative;
 }
 
-.productss{
+.discount{
     position: absolute;
     top: 0px;
     
