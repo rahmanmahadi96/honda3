@@ -29,11 +29,11 @@ body{
 
 /* main  */
 
+/* featured  */
+
 .effect{
     filter: grayscale(100%);    
 }
-
-
 
 .text-orange{
     color: #E76F51;
@@ -44,6 +44,7 @@ body{
   
 }
 
+/* news  */
 .btn-outline-orange{
     border: 2px solid #E76F51;
 }
@@ -51,6 +52,8 @@ body{
 .btn-outline-orange:hover{
     background-color: #E76F51;
 }
+
+/* similar bikes  */
 
 .offer{
     position: relative;
